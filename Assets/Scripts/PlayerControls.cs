@@ -7,7 +7,6 @@ public class PlayerControls : MonoBehaviour
     public bool isFiring,
         isReloading,
         isJumping,
-        isRunning;
-
-
+        isRunning,
+        isAiming;
 }
